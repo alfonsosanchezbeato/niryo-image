@@ -1,0 +1,24 @@
+type: model
+authority-id: gkYZ6UKpOGdP5Gb6zjGdgcIxCo0xKsmd
+series: 16
+brand-id: gkYZ6UKpOGdP5Gb6zjGdgcIxCo0xKsmd
+model: niryodemo
+architecture: armhf
+gadget: niryo-arm
+kernel: pi2-kernel
+required-snaps:
+  - network-manager
+  - abeato-niryo-one
+timestamp: 2019-09-06T08:30:36+00:00
+sign-key-sha3-384: 9W-S80DAZWgnqEfvw_aZRG7pqTnv9i30qvnVV_GQkm3KA4QWiDkl36oulqJOAwBD
+
+AcLBcwQAAQoAHRYhBCuHzb6CTy1XM2VYnIj/QasPDjc7BQJdchswAAoJEIj/QasPDjc7kJwP/jC5
+RWFRq3jzIQ333RjfEiBJXD5naywXiriRaH7JvY39bTE1V/o9LIrnOZPrhv9zqywgquowDGhLGIhu
+OncLYnYOJ0pmDKN35wxJAd5Ua+A+RECLYu+FnTZuaSFPlKiDe0qaE5QTNFIP7J9DpE8hnObyMLkg
+F2Rjf3yEeUL4fX/r+CObNN+HmO4dHZTyVaEWTuKgtiDjO3hw+QjkZLdwO5nJcIa+z5Ogi/VozJSn
+SofWxRFgDcMkWCoxQKlpWJSo16Ak6quDAZMx69HmGyUORcsyClhW5r++bBqGwexwY5PnQPIymO5L
+66fZVm5nHoH7lzMSWDaNr3Q1Qcg+ru93GCZfbX4dyGpnRQWFABiIRo8ij3x8nHaXkgxD8pH1VY5E
+3NSVxyejifzZoOmTYvrhis5NXrUIdsVZZ7OIMChoy1lO5lkj1ZZZ0UHo/KkTmGlfQJh7wjFEDyu8
+d5nm9fs7ItyeeNXj/LtUHssNQiN5herwpG9jpkcpcFdO+RiowKLdCgj6iwrnD90eH4N0a9i/613a
+GN4M2a3UAukNhZFXdbUJZ5/RGAIJvbyfaOQ1VIvqkSfhIQeGrTvU3mom3M9yp/4B9VlPMrpMafJs
+8IUwxb/U+xiln81+JiRlBqYrbyR3aG9okB2ZyFEAPdq8dtjvdf8lTOcVkqfSl2DhkvuswjLG

@@ -1,0 +1,12 @@
+{
+    "type": "model",
+    "authority-id": "gkYZ6UKpOGdP5Gb6zjGdgcIxCo0xKsmd",
+    "brand-id": "gkYZ6UKpOGdP5Gb6zjGdgcIxCo0xKsmd",
+    "series": "16",
+    "model": "niryodemo",
+    "architecture": "armhf",
+    "gadget": "niryo-arm",
+    "kernel": "pi2-kernel",
+    "required-snaps": [ "network-manager", "abeato-niryo-one" ],
+    "timestamp": "2019-09-06T08:30:36+00:00"
+}
