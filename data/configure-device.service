@@ -3,6 +3,6 @@ Description=Configure device service
 After=snapd.service snapd.socket
 
 [Service]
-Type=oneshot
+Type=simple
 ExecStart=/writable/system-data/var/lib/configure-device/run.sh
 RemainAfterExit=yes
