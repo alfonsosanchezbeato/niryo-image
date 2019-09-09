@@ -7,5 +7,6 @@
 ubuntu-image snap \
              --snap ../niryo-arm-gadget/niryo-arm_16.04-0.7_armhf.snap \
              --snap abeato-niryo-one=edge \
+             --snap niryo-sequence \
              --hooks-directory hooks \
              niryo-model.assert
