@@ -5,4 +5,4 @@ After=snapd.service snapd.socket
 [Service]
 Type=simple
 ExecStart=/writable/system-data/var/lib/configure-device/run.sh
-RemainAfterExit=yes
+Restart=always
